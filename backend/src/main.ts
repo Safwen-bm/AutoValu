@@ -7,7 +7,9 @@ async function bootstrap() {
 
   // Allow frontend (Next.js on port 3000) to call this backend
   app.enableCors({
-    origin: ['http://localhost:3000', 'https://*.vercel.app'],
+    origin: ['http://localhost:3000', 'https://autovalu.vercel.app/',
+    /\.vercel\.app$/,
+  ],
     methods: ['GET', 'POST'],
   });
 
