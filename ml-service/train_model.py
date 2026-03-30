@@ -10,7 +10,7 @@ from xgboost import XGBRegressor
 import json, pickle, os
 
 BASE_DIR  = os.path.dirname(os.path.abspath(__file__))
-DATA_FILE = os.path.join(BASE_DIR, '..', 'data', 'cars_used.csv')
+DATA_FILE = os.path.join(BASE_DIR, 'data', 'cars_used.csv')
 
 print("="*60)
 print("AutoValu — Training Two-Segment XGBoost")

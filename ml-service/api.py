@@ -83,7 +83,8 @@ print(f"Mid    : MAE {M['mae']:,.0f} DT | MAPE {M['mape']:.1f}%")
 # ── LOAD KNN DATASET ──────────────────────────────────────────────
 # Use the already-parsed columns (mileage_num, engine_cc_num)
 # so we keep maximum rows and don't lose old cars
-DATA_PATH = os.path.join(BASE_DIR, '..', 'data', 'cars_used.csv')
+BASE_DIR  = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(BASE_DIR, 'data', 'cars_used.csv')
 df_knn = pd.read_csv(DATA_PATH, encoding='utf-8-sig')
 df_knn['brand'] = df_knn['brand'].str.lower().str.strip()
 df_knn['model'] = df_knn['model'].str.lower().str.strip()
