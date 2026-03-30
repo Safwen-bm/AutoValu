@@ -18,7 +18,6 @@ print("="*60)
 
 df = pd.read_csv(DATA_FILE, encoding='utf-8-sig')
 df['brand'] = df['brand'].str.strip().str.lower()
-df['brand'] = df['brand'].replace({'mercedes-benz':'mercedes','citroën':'citroen'})
 
 print(f"\nRows: {len(df)} | Price: {df['price'].min():,.0f}–{df['price'].max():,.0f} DT")
 
