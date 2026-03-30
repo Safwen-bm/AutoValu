@@ -1,0 +1,32 @@
+# Python environment — too large, machine-specific
+.venv/
+__pycache__/
+*.pyc
+
+# Node modules — regenerated automatically
+node_modules/
+.next/
+dist/
+
+# Trained model files — too large for GitHub, regenerated on Railway
+ml-service/car_model_budget.pkl
+ml-service/car_model_mid.pkl
+ml-service/car_model_mid_premium.pkl
+ml-service/car_encoders.pkl
+
+# Database — local only
+*.db
+data/autovalu.db
+data/pending_submissions.csv
+
+# Environment files — NEVER push, contain passwords
+.env
+.env.local
+.env.production
+ml-service/.env
+backend/.env
+frontend/.env.local
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+cd C:\Users\MSI\Desktop\deals-analyzer\ml-service
+python api.py
+
+
+cd C:\Users\MSI\Desktop\deals-analyzer\backend
+npx ts-node -r tsconfig-paths/register src/main.ts
+
+
+cd C:\Users\MSI\Desktop\deals-analyzer\frontend
+npm run dev

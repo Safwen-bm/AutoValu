@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: autovalu_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: autovalu
+      POSTGRES_USER: autovalu
+      POSTGRES_PASSWORD: autovalu123
+    ports:
+      - "5432:5432"
+    volumes:
+      - autovalu_data:/var/lib/postgresql/data
+
+volumes:
+  autovalu_data:
