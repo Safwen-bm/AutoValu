@@ -17,7 +17,7 @@ const BRANDS = [
 const FUELS  = ['gasoline','diesel','hybrid','electric'];
 const BODIES = ['sedan','hatchback','wagon','coupe','convertible','suv 4x4','suv 4x2','crossover','pickup 4x4','pickup 4x2','mpv','light commercial','heavy commercial'];
 const CONDITIONS = ['good','medium','bad'];
-const TRIMS = ['standard','amg','r line','s line','gti','rs','raptor','wildtrack','alpine','quattro','other'];
+const TRIMS = ['standard','amg','m','r line','s line','gti','rs','raptor','wildtrack','alpine','quattro','imported','other'];
 
 type Verdict = {
   verdict: string; label: string; color: string;

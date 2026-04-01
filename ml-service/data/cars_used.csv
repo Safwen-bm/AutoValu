@@ -1161,6 +1161,14 @@ bmw,x5,2017.0,diesel,206000,automatic,16cv,3000,suv 4x4,good,standard,5 seats,4 
 bmw,serie 5,2004.0,gasoline,320000,automatic,12cv,2000,sedan,medium,standard,5 seats,4 doors,used,28000.0,2026-03,5.0,4.0,2000.0,320000.0,22.0,14545.454545454546,4,serie 5
 bmw,serie 4,2021.0,gasoline,40000,automatic,10cv,2000,coupe,good,standard,5 seats,4 doors,used,175000.0,2026-03,5.0,4.0,2000.0,40000.0,5.0,8000.0,2,serie 4
 bmw,x5,2012.0,diesel,163000,automatic,19cv,3000,suv 4x4,good,standard,5 seats,4 doors,used,83000.0,2026-03,5.0,4.0,3000.0,163000.0,14.0,11642.857142857143,3,x5
+bmw,serie 5,1999.0,diesel,194000,automatic,12cv,3000,sedan,good,standard,5 seats,4 doors,used,29000.0,2026-03,5.0,4.0,3000.0,194000.0,27.0,7186,4,serie 5
+bmw,serie 3,2009.0,gasoline,150000,automatic,9cv,2000,coupe,good,m,5 seats,2 doors,used,48000.0,2026-03,5.0,2.0,2000.0,17.0,8823,4,serie 3
+bmw,serie 5,2019.0,gasoline,148000,automatic,11cv,2000,sedan,good,standard,5 seats,4 doors,used,100000.0,2026-03,5.0,4.0,2000.0,148000.0,5.0,21143,2,serie 5
+bmw,serie 5,2021.0,hybrid,56000,automatic,11cv,2000,sedan,good,standard,5 seats,4 doors,used,160000.0,2026-03,5.0,4.0,2000.0,56000.0,5.0,11200,2,serie 5
+bmw,serie 3,2004.0,gasoline,225000,manuel,9cv,2000,sedan,good,standard,5 seats,4 doors,used,35000.0,2026-03,5.0,4.0,2000.0,22.0,10227,4,serie 3
+bmw,serie 3,1983.0,gasoline,unknown,manuel,8cv,1800,sedan,medium,standard,5 seats,4 doors,used,10000.0,2026-03,5.0,4.0,1800.0,43.0,,4,serie 3
+bmw,serie 3,2000.0,gasoline,unknown,manual,10cv,3000,coupe,good,standard,5 seats,2 doors,used,37000.0,2026-03,5.0,2.0,3000.0,,26.0,,4,serie 3
+bmw,x6,2017.0,gasoline,72000,automatic,22cv,3500,suv 4x4,good,standard,5 seats,4 doors,used,178000.0,2026-03,5.0,4.0,3500.0,72000.0,9.0,8000,4,x6
 bmw,x6,2010.0,gasoline,215000,automatic,21cv,3500,suv 4x4,good,standard,5 seats,4 doors,used,67000.0,2026-03,5.0,4.0,3500.0,215000.0,16.0,13437.5,4,x6
 mercedes,classe c,2016.0,gasoline,170000,automatic,7cv,1600,sedan,good,standard,5 seats,4 doors,used,84000.0,2026-03,5.0,4.0,1600.0,170000.0,10.0,17000.0,3,classe c
 mercedes,classe a,2015.0,diesel,unknown,manual,5cv,1500,hatchback,good,standard,5 seats,4 doors,used,56000.0,2026-03,5.0,4.0,1500.0,,11.0,,3,classe a
@@ -1187,6 +1195,7 @@ mercedes,classe c,2016.0,gasoline,170000,automatic,7cv,1800,sedan,good,standard,
 mercedes,classe e,2011.0,gasoline,195000,automatic,11cv,2000,sedan,good,standard,5 seats,4 doors,used,55000.0,2026-03,5.0,4.0,2000.0,195000.0,15.0,13000.0,3,classe e
 mercedes,classe c,2018.0,diesel,237000,manual,7cv,1600,wagon,good,standard,5 seats,4 doors,used,67000.0,2026-03,5.0,4.0,1600.0,237000.0,8.0,29625.0,2,classe c
 mercedes,cla,2023.0,hybrid,42000,automatic,8cv,1300,sedan,good,standard,5 seats,4 doors,used,119000.0,2026-03,5.0,4.0,1300.0,42000.0,3.0,14000.0,1,cla
+mercedes,classe e,2015.0,gasoline,189000,automatic,10cv,2000,sedan,good,standard,5 seats,4 doors,used,74000.0,2026-03,5.0,4.0,2000.0,189000.0,11.0,17182,3,classe e
 mercedes,classe e,2016.0,gasoline,56000,automatic,10cv,2000,sedan,good,standard,5 seats,4 doors,used,100000.0,2026-03,5.0,4.0,2000.0,56000.0,10.0,5600.0,3,classe e
 mercedes,classe c,2014.0,gasoline,135000,automatic,9cv,1800,sedan,good,standard,5 seats,4 doors,used,85000.0,2026-03,5.0,4.0,1800.0,135000.0,12.0,11250.0,3,classe c
 mercedes,glc coupe,2018.0,diesel,134000,automatic,9cv,2500,suv 4x4,good,amg,5 seats,4 doors,used,160000.0,2026-03,5.0,4.0,2500.0,134000.0,8.0,16750.0,2,glc coupe
@@ -1993,6 +2002,7 @@ land rover,freelander,2002.0,gasoline,unknown,automatic,9cv,2000,suv 4x4,good,st
 land rover,range rover sport,2017.0,gasoline,133000,automatic,20cv,3000,suv 4x4,good,standard,5 seats,4 doors,used,170000.0,2026-03,5.0,4.0,3000.0,133000.0,9.0,14777.777777777776,3,range rover sport
 land rover,discovery,2002.0,diesel,346000,automatic,10cv,3000,suv 4x4,good,standard,5 seats,4 doors,used,40000.0,2026-03,5.0,4.0,3000.0,346000.0,24.0,14416.666666666666,4,discovery
 land rover,range rover sport,2009.0,diesel,320000,automatic,13cv,2500,suv 4x4,good,standard,5 seats,4 doors,used,45000.0,2026-03,5.0,4.0,2500.0,320000.0,17.0,18823.529411764703,4,range rover sport
+porsche,cayenne coupe,2024.0,hybrid,17900,automatic,20cv,3000,suv 4x4,good,standard,5 seats,4 doors,used,410000.0,2026-03,5.0,4.0,3000.0,17900.0,2.0,8950.0,1,cayenne coupe
 porsche,cayenne,2016.0,diesel,134000,automatic,16cv,3000,suv 4x4,good,standard,5 seats,4 doors,used,190000.0,2026-03,5.0,4.0,3000.0,134000.0,10.0,13400.0,3,cayenne
 porsche,cayenne,2012.0,gasoline,236000,automatic,21cv,3600,suv 4x4,good,standard,5 seats,4 doors,used,115000.0,2026-03,5.0,4.0,3600.0,236000.0,14.0,16857.14285714286,3,cayenne
 porsche,cayenne,2009.0,gasoline,312000,automatic,33cv,4800,suv 4x4,good,standard,5 seats,4 doors,used,55000.0,2026-03,5.0,4.0,4800.0,312000.0,17.0,18352.941176470587,4,cayenne
@@ -2019,54 +2029,57 @@ jeep,renegade,2016.0,diesel,178000,automatic,8cv,1400,suv 4x2,good,standard,5 se
 jeep,cherokee,2006.0,gasoline,273000,manual,16cv,2800,suv 4x4,good,standard,5 seats,4 doors,used,38000.0,2026-03,5.0,4.0,2800.0,273000.0,20.0,13650.0,4,jeep_suv 4x4
 jeep,wrangler,2016.0,gasoline,112000,automatic,20cv,3600,suv 4x4,good,standard,5 seats,4 doors,used,160000.0,2026-03,5.0,4.0,3600.0,112000.0,10.0,11200.0,3,jeep_suv 4x4
 jeep,wrangler,2024.0,gasoline,40000,automatic,20cv,3600,suv 4x4,good,standard,5 seats,4 doors,used,240000.0,2026-03,5.0,4.0,3600.0,40000.0,2.0,20000.0,1,jeep_suv 4x4
-isuzu,dmax,2021.0,diesel,124000,automatic,8cv,1900,pickup 4x4,good,khalijia,5 seats,4 doors,used,128000.0,2026-03,5.0,4.0,1900.0,124000.0,5.0,24800.0,2,dmax
-isuzu,dmax,2021.0,diesel,100000,manual,8cv,2500,pickup 4x2,good,karwia,2 seats,2 doors,used,60000.0,2026-03,2.0,2.0,2500.0,100000.0,5.0,20000.0,2,dmax
-isuzu,dmax,2020.0,diesel,324000,manual,8cv,2500,pickup 4x2,good,karwia,5 seats,4 doors,used,60000.0,2026-03,5.0,4.0,2500.0,324000.0,6.0,54000.0,2,dmax
+isuzu,dmax,2017.0,diesel,206500,manuel,8cv,2500,pickup 4x2,good,standard,5 seats,4 doors,used,47000.0,2026-03,5.0,4.0,2500.0,206500.0,5.0,22945.0,3,dmax
+isuzu,dmax,2013.0,diesel,227000,manuel,10cv,2500,pickup 4x2,good,imported,5 seats,4 doors,used,77000.0,2026-03,5.0,4.0,2500.0,227000.0,13.0,17214,3,dmax
+isuzu,dmax,2012.0,diesel,270000,manuel,10cv,2500,pickup 4x2,good,imported,5 seats,4 doors,used,74000.0,2026-03,5.0,4.0,2500.0,270000.0,14.0,24546,3,dmax
+isuzu,dmax,2021.0,diesel,124000,automatic,8cv,1900,pickup 4x4,good,imported,5 seats,4 doors,used,128000.0,2026-03,5.0,4.0,1900.0,124000.0,5.0,24800.0,2,dmax
+isuzu,dmax,2021.0,diesel,100000,manual,8cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,60000.0,2026-03,2.0,2.0,2500.0,100000.0,5.0,20000.0,2,dmax
+isuzu,dmax,2020.0,diesel,324000,manual,8cv,2500,pickup 4x2,good,standard,5 seats,4 doors,used,60000.0,2026-03,5.0,4.0,2500.0,324000.0,6.0,54000.0,2,dmax
 isuzu,pick up,1999.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,33000.0,2026-03,2.0,2.0,2500.0,,27.0,,4,pick up
-isuzu,dmax,2024.0,diesel,13800,manual,8cv,1900,pickup 4x4,good,khalijia,2 seats,2 doors,used,115000.0,2026-03,2.0,2.0,1900.0,13800.0,2.0,6900.0,1,dmax
+isuzu,dmax,2024.0,diesel,13800,manual,8cv,1900,pickup 4x4,good,imported,2 seats,2 doors,used,115000.0,2026-03,2.0,2.0,1900.0,13800.0,2.0,6900.0,1,dmax
 isuzu,pick up,2001.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,2seats,2 doors,used,37000.0,2026-03,2.0,2.0,2500.0,,25.0,,4,pick up
-isuzu,dmax,2022.0,diesel,79000,automatic,9cv,1900,pickup 4x4,good,european,5 seats,4 doors,used,148000.0,2026-03,5.0,4.0,1900.0,79000.0,4.0,19750.0,2,dmax
+isuzu,dmax,2022.0,diesel,79000,automatic,9cv,1900,pickup 4x4,good,imported,5 seats,4 doors,used,148000.0,2026-03,5.0,4.0,1900.0,79000.0,4.0,19750.0,2,dmax
 isuzu,pick up,2004.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,5 seats,4 doors,used,40000.0,2026-03,5.0,4.0,2500.0,,22.0,,4,pick up
 isuzu,pick up,1992.0,diesel,unknown,manual,9cv,2300,pickup 4x2,bad,standard,5 seats,4 doors,used,18000.0,2026-03,5.0,4.0,2300.0,,34.0,,4,pick up
-isuzu,dmax,2022.0,diesel,123000,manual,10cv,2500,pickup 4x2,good,karwia,2 seats,2 doors,used,61000.0,2026-03,2.0,2.0,2500.0,123000.0,4.0,30750.0,2,dmax
-isuzu,dmax,2004.0,diesel,unknown,manual,12cv,3000,pickup 4x2,good,khalijia,2 seats,2 doors,used,40000.0,2026-03,2.0,2.0,3000.0,,22.0,,4,dmax
+isuzu,dmax,2022.0,diesel,123000,manual,10cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,61000.0,2026-03,2.0,2.0,2500.0,123000.0,4.0,30750.0,2,dmax
+isuzu,dmax,2004.0,diesel,unknown,manual,12cv,3000,pickup 4x2,good,imported,2 seats,2 doors,used,40000.0,2026-03,2.0,2.0,3000.0,,22.0,,4,dmax
 isuzu,kb26,1980.0,diesel,unknown,manual,8cv,unknown,pickup 4x2,medium,standard,2 seats,2 doors,used,5000.0,2026-03,2.0,2.0,,,46.0,,4,isuzu_pickup 4x2
-isuzu,dmax,2023.0,diesel,114000,manual,8cv,2500,pickup 4x2,good,karwia,5 seats,4 doors,used,70000.0,2026-03,5.0,4.0,2500.0,114000.0,3.0,38000.0,1,dmax
+isuzu,dmax,2023.0,diesel,114000,manual,8cv,2500,pickup 4x2,good,standard,5 seats,4 doors,used,70000.0,2026-03,5.0,4.0,2500.0,114000.0,3.0,38000.0,1,dmax
 isuzu,pick up,1998.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,28000.0,2026-03,2.0,2.0,2500.0,,28.0,,4,pick up
 isuzu,pick up,1993.0,diesel,unknown,manual,9cv,2300,pickup 4x2,good,standard,2 seats,2 doors,used,16000.0,2026-03,2.0,2.0,2300.0,,33.0,,4,pick up
-isuzu,dmax,2024.0,diesel,2500,manual,10cv,2500,pickup 4x2,good,khalijia,2 seats,2 doors,used,108000.0,2026-03,2.0,2.0,2500.0,2500.0,2.0,1250.0,1,dmax
+isuzu,dmax,2024.0,diesel,2500,manual,10cv,2500,pickup 4x2,good,imported,2 seats,2 doors,used,108000.0,2026-03,2.0,2.0,2500.0,2500.0,2.0,1250.0,1,dmax
 isuzu,pick up,1992.0,diesel,unknown,manual,9cv,2300,pickup 4x2,good,standard,5 seats,4 doors,used,21000.0,2026-03,5.0,4.0,2300.0,,34.0,,4,pick up
-isuzu,dmax,2013.0,diesel,158000,manual,8cv,2500,pickup 4x4,good,khalijia,2 seats,2 doors,used,83000.0,2026-03,2.0,2.0,2500.0,158000.0,13.0,12153.846153846154,3,dmax
-isuzu,dmax,2016.0,diesel,185000,automatic,10cv,2500,pickup 4x4,good,european,5 seats,4 doors,used,105000.0,2026-03,5.0,4.0,2500.0,185000.0,10.0,18500.0,3,dmax
+isuzu,dmax,2013.0,diesel,158000,manual,8cv,2500,pickup 4x4,good,imported,2 seats,2 doors,used,83000.0,2026-03,2.0,2.0,2500.0,158000.0,13.0,12153.846153846154,3,dmax
+isuzu,dmax,2016.0,diesel,185000,automatic,10cv,2500,pickup 4x4,good,imported,5 seats,4 doors,used,105000.0,2026-03,5.0,4.0,2500.0,185000.0,10.0,18500.0,3,dmax
 isuzu,pick up,2007.0,diesel,unknown,manual,10cv,2500,pickup 4x2,bad,standard,2 seats,2 doors,used,22000.0,2026-03,2.0,2.0,2500.0,,19.0,,4,pick up
 isuzu,pick up,1994.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,5 seats,4 doors,used,30000.0,2026-03,5.0,4.0,2500.0,,32.0,,4,pick up
-isuzu,dmax,2018.0,diesel,181000,manual,8cv,2500,pickup 4x2,good,karwia,2 seats,2 doors,used,48000.0,2026-03,2.0,2.0,2500.0,181000.0,8.0,22625.0,2,dmax
-isuzu,dmax,2016.0,diesel,297000,manual,8cv,2500,pickup 4x2,good,khalijia,2 seats,2 doors,used,42000.0,2026-03,2.0,2.0,2500.0,297000.0,10.0,29700.0,3,dmax
-isuzu,dmax,2010.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,khalijia,2 seats,2 doors,used,48000.0,2026-03,2.0,2.0,2500.0,,16.0,,4,dmax
-isuzu,dmax,2012.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,karwia,2 seats,2 doors,used,42000.0,2026-03,2.0,2.0,2500.0,,14.0,,3,dmax
+isuzu,dmax,2018.0,diesel,181000,manual,8cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,48000.0,2026-03,2.0,2.0,2500.0,181000.0,8.0,22625.0,2,dmax
+isuzu,dmax,2016.0,diesel,297000,manual,8cv,2500,pickup 4x2,good,imported,2 seats,2 doors,used,42000.0,2026-03,2.0,2.0,2500.0,297000.0,10.0,29700.0,3,dmax
+isuzu,dmax,2010.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,imported,2 seats,2 doors,used,48000.0,2026-03,2.0,2.0,2500.0,,16.0,,4,dmax
+isuzu,dmax,2012.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,42000.0,2026-03,2.0,2.0,2500.0,,14.0,,3,dmax
 isuzu,pick up,1999.0,diesel,unknown,manual,9cv,2300,pickup 4x2,bad,standard,2 seats,2 doors,used,8000.0,2026-03,2.0,2.0,2300.0,,27.0,,4,pick up
 isuzu,pick up,2000.0,diesel,unknown,manual,10cv,2800,pickup 4x2,good,super faster,5 seats,4 doors,used,53000.0,2026-03,5.0,4.0,2800.0,,26.0,,4,pick up
-isuzu,dmax,2010.0,diesel,310000,manual,10cv,2500,pickup 4x2,good,khalijia,5 seats,4 doors,used,57000.0,2026-03,5.0,4.0,2500.0,310000.0,16.0,19375.0,4,dmax
-isuzu,dmax,2004.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,khalijia,2 seats,2 doors,used,35000.0,2026-03,2.0,2.0,2500.0,,22.0,,4,dmax
-isuzu,dmax,2013.0,diesel,185000,manual,10cv,2500,pickup 4x2,good,khalijia,5 seats,4 doors,used,75000.0,2026-03,5.0,4.0,2500.0,185000.0,13.0,14230.76923076923,3,dmax
-isuzu,dmax,2015.0,diesel,unknown,manual,10cv,2500,pickup 4x4,good,european,5 seats,4 doors,used,85000.0,2026-03,5.0,4.0,2500.0,,11.0,,3,dmax
-isuzu,dmax,2013.0,diesel,100000,manual,10cv,2500,pickup 4x2,good,khalijia,5 seats,4 doors,used,85000.0,2026-03,5.0,4.0,2500.0,100000.0,13.0,7692.307692307692,3,dmax
-isuzu,dmax,2023.0,diesel,137000,manual,8cv,2500,pickup 4x4,good,karwia,5 seats,4 doors,used,90000.0,2026-03,5.0,4.0,2500.0,137000.0,3.0,45666.66666666666,1,dmax
-isuzu,dmax,2005.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,khalijia,5 seats,4 doors,used,45000.0,2026-03,5.0,4.0,2500.0,,21.0,,4,dmax
-isuzu,dmax,2014.0,diesel,142000,manual,8cv,2500,pickup 4x2,good,khalijia,5 seats,4 doors,used,90000.0,2026-03,5.0,4.0,2500.0,142000.0,12.0,11833.333333333334,3,dmax
-isuzu,dmax,2022.0,diesel,113000,manual,8cv,2500,pickup 4x2,good,karwia,2 seats,2 doors,used,60000.0,2026-03,2.0,2.0,2500.0,113000.0,4.0,28250.0,2,dmax
-isuzu,dmax,2022.0,diesel,90000,manual,8cv,2500,pickup 4x4,good,khalijia,5 seats,4 doors,used,97000.0,2026-03,5.0,4.0,2500.0,90000.0,4.0,22500.0,2,dmax
+isuzu,dmax,2010.0,diesel,310000,manual,10cv,2500,pickup 4x2,good,imported,5 seats,4 doors,used,57000.0,2026-03,5.0,4.0,2500.0,310000.0,16.0,19375.0,4,dmax
+isuzu,dmax,2004.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,imported,2 seats,2 doors,used,35000.0,2026-03,2.0,2.0,2500.0,,22.0,,4,dmax
+isuzu,dmax,2013.0,diesel,185000,manual,10cv,2500,pickup 4x2,good,imported,5 seats,4 doors,used,75000.0,2026-03,5.0,4.0,2500.0,185000.0,13.0,14230.76923076923,3,dmax
+isuzu,dmax,2015.0,diesel,unknown,manual,10cv,2500,pickup 4x4,good,imported,5 seats,4 doors,used,85000.0,2026-03,5.0,4.0,2500.0,,11.0,,3,dmax
+isuzu,dmax,2013.0,diesel,100000,manual,10cv,2500,pickup 4x2,good,imported,5 seats,4 doors,used,85000.0,2026-03,5.0,4.0,2500.0,100000.0,13.0,7692.307692307692,3,dmax
+isuzu,dmax,2023.0,diesel,137000,manual,8cv,2500,pickup 4x4,good,standard,5 seats,4 doors,used,90000.0,2026-03,5.0,4.0,2500.0,137000.0,3.0,45666.66666666666,1,dmax
+isuzu,dmax,2005.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,imported,5 seats,4 doors,used,45000.0,2026-03,5.0,4.0,2500.0,,21.0,,4,dmax
+isuzu,dmax,2014.0,diesel,142000,manual,8cv,2500,pickup 4x2,good,imported,5 seats,4 doors,used,90000.0,2026-03,5.0,4.0,2500.0,142000.0,12.0,11833.333333333334,3,dmax
+isuzu,dmax,2022.0,diesel,113000,manual,8cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,60000.0,2026-03,2.0,2.0,2500.0,113000.0,4.0,28250.0,2,dmax
+isuzu,dmax,2022.0,diesel,90000,manual,8cv,2500,pickup 4x4,good,imported,5 seats,4 doors,used,97000.0,2026-03,5.0,4.0,2500.0,90000.0,4.0,22500.0,2,dmax
 isuzu,pick up,2000.0,diesel,unknown,manual,10cv,2800,pickup 4x2,good,super faster,5 seats,4 doors,used,55000.0,2026-03,5.0,4.0,2800.0,,26.0,,4,pick up
 isuzu,pick up,1996.0,diesel,unknown,manual,10cv,2800,pickup 4x4,good,standard,5 seats,4 doors,used,44000.0,2026-03,5.0,4.0,2800.0,,30.0,,4,pick up
 isuzu,pick up,1990.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,5 seats,4 doors,used,20000.0,2026-03,5.0,4.0,2500.0,,36.0,,4,pick up
-isuzu,dmax,2021.0,diesel,unknown,automatic,10cv,2500,pickup 4x4,good,khalijia,5 seats,4 doors,used,126000.0,2026-03,5.0,4.0,2500.0,,5.0,,2,dmax
+isuzu,dmax,2021.0,diesel,unknown,automatic,10cv,2500,pickup 4x4,good,imported,5 seats,4 doors,used,126000.0,2026-03,5.0,4.0,2500.0,,5.0,,2,dmax
 isuzu,pick up,2002.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,37000.0,2026-03,2.0,2.0,2500.0,,24.0,,4,pick up
-isuzu,dmax,2016.0,diesel,unknown,manual,8cv,2500,pickup 4x2,good,khalijia,5 seats,4 doors,used,92000.0,2026-03,5.0,4.0,2500.0,,10.0,,3,dmax
+isuzu,dmax,2016.0,diesel,unknown,manual,8cv,2500,pickup 4x2,good,imported,5 seats,4 doors,used,92000.0,2026-03,5.0,4.0,2500.0,,10.0,,3,dmax
 isuzu,pick up,2000.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,40000.0,2026-03,2.0,2.0,2500.0,,26.0,,4,pick up
 isuzu,pick up,1996.0,diesel,unknown,manual,10cv,2500,pickup 4x4,good,standard,5 seats,4 doors,used,40000.0,2026-03,5.0,4.0,2500.0,,30.0,,4,pick up
 isuzu,pick up,1999.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,5 seats,4 doors,used,42000.0,2026-03,5.0,4.0,2500.0,,27.0,,4,pick up
-isuzu,dmax,2016.0,diesel,265000,manual,8cv,2500,pickup 4x2,good,khalijia,2 seats,2 doors,used,63000.0,2026-03,2.0,2.0,2500.0,265000.0,10.0,26500.0,3,dmax
-isuzu,dmax,2008.0,diesel,280000,manual,10cv,2500,pickup 4x2,good,khalijia,5 seats,4 doors,used,68000.0,2026-03,5.0,4.0,2500.0,280000.0,18.0,15555.555555555557,4,dmax
+isuzu,dmax,2016.0,diesel,265000,manual,8cv,2500,pickup 4x2,good,imported,2 seats,2 doors,used,63000.0,2026-03,2.0,2.0,2500.0,265000.0,10.0,26500.0,3,dmax
+isuzu,dmax,2008.0,diesel,280000,manual,10cv,2500,pickup 4x2,good,imported,5 seats,4 doors,used,68000.0,2026-03,5.0,4.0,2500.0,280000.0,18.0,15555.555555555557,4,dmax
 isuzu,pick up,1991.0,diesel,unknown,manual,9cv,2300,pickup 4x2,good,standard,2 seats,2 doors,used,22000.0,2026-03,2.0,2.0,2300.0,,35.0,,4,pick up
 isuzu,kb26,1980.0,diesel,unknown,manual,9cv,2000,pickup 4x2,medium,standard,5 seats,4 doors,used,6000.0,2026-03,5.0,4.0,2000.0,,46.0,,4,isuzu_pickup 4x2
 mg,5,2022.0,gasoline,65000,automatic,7cv,1500,sedan,good,standard,5 seats,4 doors,used,48000.0,2026-03,5.0,4.0,1500.0,65000.0,4.0,16250.0,2,5
@@ -2219,8 +2232,8 @@ toyota,hilux ,2018.0,diesel,120000,automatic,8cv,2400,pickup 4x2,good,standard,5
 mercedes,amg gt,2021.0,gasoline,57000,automatic,24cv,2999,sedan,good,standard,4 seats,4 doors,used,449000.0,2026-03,4.0,4.0,2999.0,57000.0,5.0,11400.0,2,mercedes_sedan
 land rover,range rover sport,2009.0,diesel,228000,automatic,13cv,2700,suv 4x4,good,standard,5 seats,5 doors,used,68000.0,2026-03,5.0,5.0,2700.0,228000.0,17.0,13411.764705882351,4,range rover sport
 skoda,yeti,2016.0,gasoline,224000,automatic,7cv,1598,suv 4x2,good,standard,5 seats,5 doors,used,37000.0,2026-03,5.0,5.0,1598.0,224000.0,10.0,22400.0,3,skoda_suv 4x2
-isuzu,dmax,2017.0,diesel,38000,automatic,8cv,2500,suv 4x4,good,standard,7 seats,5 doors,used,140000.0,2026-03,7.0,5.0,2500.0,38000.0,9.0,4222.222222222223,3,dmax
-isuzu,dmax ,2019.0,diesel,176000,manual,8cv,2500,pickup 4x2,good,standard,3 seats,2 doors,used,63000.0,2026-03,3.0,2.0,2500.0,176000.0,7.0,25142.85714285714,2,dmax 
+isuzu,dmax,2017.0,diesel,38000,automatic,8cv,2500,suv 4x4,good,imported,7 seats,5 doors,used,140000.0,2026-03,7.0,5.0,2500.0,38000.0,9.0,4222.222222222223,3,dmax
+isuzu,dmax ,2019.0,diesel,176000,manual,8cv,2500,pickup 4x2,good,imported,3 seats,2 doors,used,63000.0,2026-03,3.0,2.0,2500.0,176000.0,7.0,25142.85714285714,2,dmax 
 audi,q3,2020.0,gasoline,98000,manual,8cv,1500,suv 4x2,good,s line,5 seats,5 doors,used,125000.0,2026-03,5.0,5.0,1500.0,98000.0,6.0,16333.333333333334,2,q3
 kia,sportage,2013.0,diesel,275000,automatic,11cv,1998,suv 4x2,good,standard,5 seats,5 doors,used,44500.0,2026-03,5.0,5.0,1998.0,275000.0,13.0,21153.846153846152,3,sportage
 gwm,poer mt,2023.0,diesel,100000,manual,11cv,1996,pickup 4x2,good,standard,5 seats,5 doors,used,78000.0,2026-03,5.0,5.0,1996.0,100000.0,3.0,33333.333333333336,1,gwm_pickup 4x2
@@ -2375,7 +2388,7 @@ mercedes,classe e,2017.0,gasoline,252000,automatic,9cv,1598,sedan,good,standard,
 bmw,serie 7,2012.0,diesel,200000,automatic,20cv,2998,sedan,good,standard,5 seats,4 doors,used,155500.0,2026-03,5.0,4.0,2998.0,200000.0,14.0,14285.714285714286,3,serie 7
 mercedes,classe s,2007.0,gasoline,112000,automatic,19cv,3498,sedan,good,standard,5 seats,4 doors,used,62000.0,2026-03,5.0,4.0,3498.0,112000.0,19.0,5894.736842105263,4,classe s
 audi,q3,2021.0,gasoline,122000,automatic,9cv,1498,suv 4x2,good,s line,5 seats,4 doors,used,135000.0,2026-03,5.0,4.0,1498.0,122000.0,5.0,24400.0,2,q3
-isuzu,dmax ,2013.0,diesel,244000,manual,8cv,2498,pickup 4x2,good,standard,5 seats,4 doors,used,115000.0,2026-03,5.0,4.0,2498.0,244000.0,13.0,18769.23076923077,3,dmax 
+isuzu,dmax ,2013.0,diesel,244000,manual,8cv,2498,pickup 4x2,good,imported,5 seats,4 doors,used,90000.0,2026-03,5.0,4.0,2498.0,244000.0,13.0,18769.23076923077,3,dmax 
 porsche,cayenne,2008.0,gasoline,184000,automatic,21cv,3600,suv 4x4,good,standard,5 seats,5 doors,used,85000.0,2026-03,5.0,5.0,3598.0,184000.0,18.0,10222.222222222224,4,cayenne
 land rover,velar,2019.0,diesel,60000,automatic,11cv,1998,suv 4x4,good,standard,5 seats,4 doors,used,295000.0,2026-03,5.0,4.0,1998.0,60000.0,7.0,8571.42857142857,2,velar
 volkswagen,tiguan,2018.0,gasoline,104000,automatic,8cv,1398,suv 4x2,good,standard,5 seats,5 doors,used,117000.0,2026-03,5.0,5.0,1398.0,104000.0,8.0,13000.0,2,tiguan
@@ -3026,7 +3039,7 @@ mercedes,classe c,2014.0,gasoline,170000,automatic,9cv,1600,sedan,good,standard,
 volkswagen,amarok,2017.0,diesel,145000,automatic,7cv,2000,pickup 4x2,good,standard,5 seats,4 doors,used,110000.0,2026-03,5.0,4.0,2000.0,145000.0,9.0,16111.111111111111,3,amarok
 mercedes,cla,2021.0,gasoline,65000,automatic,8cv,1400,sedan,good,standard,5 seats,4 doors,used,140000.0,2026-03,5.0,4.0,1400.0,65000.0,5.0,13000.0,2,cla
 volkswagen,t-roc,2023.0,gasoline,90000,manual,6cv,1000,suv 4x2,good,standard,5 seats,5 doors,used,81500.0,2026-03,5.0,5.0,1000.0,90000.0,3.0,30000.0,1,t-roc
-isuzu,dmax ,2021.0,diesel,78000,automatic,9cv,1900,pickup 4x2,good,standard,5 seats,5 doors,used,155000.0,2026-03,5.0,5.0,1900.0,78000.0,5.0,15600.0,2,dmax 
+isuzu,dmax ,2021.0,diesel,78000,automatic,9cv,1900,pickup 4x2,good,imported,5 seats,4 doors,used,145000.0,2026-03,5.0,5.0,1900.0,78000.0,5.0,15600.0,2,dmax 
 porsche,macan,2018.0,diesel,104000,automatic,16cv,3000,suv 4x2,good,standard,5 seats,5 doors,used,168000.0,2026-03,5.0,5.0,3000.0,104000.0,8.0,13000.0,2,macan
 peugeot,partner,2024.0,diesel,44000,manual,5cv,1560,light commercial,good,standard,2 seats,2 doors,used,52859.0,2026-03,2.0,2.0,1560.0,44000.0,2.0,22000.0,1,partner
 mercedes,classe a,2019.0,diesel,104000,automatic,6cv,1461,sedan,good,standard,5 seats,5 doors,used,105000.0,2026-03,5.0,5.0,1461.0,104000.0,7.0,14857.142857142857,2,classe a
