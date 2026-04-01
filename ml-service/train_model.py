@@ -19,6 +19,13 @@ print("="*60)
 df = pd.read_csv(DATA_FILE, encoding='utf-8-sig')
 df['brand'] = df['brand'].str.strip().str.lower()
 
+# Force numeric columns to be numeric — CSV sometimes saves them as strings
+for col in ['car_age', 'mileage_num', 'engine_cc_num', 'seats_num',
+            'doors_num', 'mileage_per_year', 'depreciation_zone',
+            'price', 'year']:
+    if col in df.columns:
+        df[col] = pd.to_numeric(df[col], errors='coerce')
+
 print(f"\nRows: {len(df)} | Price: {df['price'].min():,.0f}–{df['price'].max():,.0f} DT")
 
 TARGET = 'price'
@@ -54,10 +61,16 @@ for col in LABEL_FEATURES:
     print(f"  {col:20s}: {len(le.classes_)} values")
 
 # Medians from full dataset
+# Force all numerical columns to numeric type first
+# (some columns may have been saved as strings after CSV export)
+for col in NUM_FEATURES:
+    if col in df.columns:
+        df[col] = pd.to_numeric(df[col], errors='coerce')
+
 num_medians = {}
 for col in NUM_FEATURES:
     m = df[col].median() if col in df.columns else 0.0
-    num_medians[col] = float(m) if not np.isnan(m) else 0.0
+    num_medians[col] = float(m) if not np.isnan(float(m) if m is not None else float('nan')) else 0.0
 
 print("\nMedians:")
 for k, v in num_medians.items():
