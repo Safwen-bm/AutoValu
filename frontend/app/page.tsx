@@ -99,12 +99,12 @@ export default function LandingPage() {
           <div className={styles.heroVisual}>
             <div className={styles.demoCard}>
               <div className={styles.demoCardHeader}>Market price</div>
-              <div className={styles.demoCardPrice}>58 500 DT</div>
-              <div className={styles.demoCardRange}>Range: 46 800 — 70 200 DT</div>
+              <div className={styles.demoCardPrice}>56 500 DT</div>
+              <div className={styles.demoCardRange}>Range: 49 800 — 60 200 DT</div>
               <div className={styles.demoVerdict}>
                 <span className={styles.demoVerdictDot} style={{background:'#10B981'}}/>
                 <span style={{color:'#065F46',fontWeight:700}}>Excellent deal</span>
-                <span className={styles.demoVerdictBadge} style={{background:'#D1FAE5',color:'#065F46'}}>−18%</span>
+                <span className={styles.demoVerdictBadge} style={{background:'#D1FAE5',color:'#065F46'}}>−6.2%</span>
               </div>
               <div className={styles.demoRow}><span>Brand</span><strong>Volkswagen</strong></div>
               <div className={styles.demoRow}><span>Model</span><strong>Golf 7</strong></div>
