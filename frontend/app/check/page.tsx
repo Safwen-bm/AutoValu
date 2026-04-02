@@ -9,11 +9,13 @@ const BACKEND = process.env.NEXT_PUBLIC_BACKEND_URL ?? 'http://localhost:4000';
 const ML_API  = process.env.NEXT_PUBLIC_ML_URL      ?? 'http://localhost:8000';
 
 const BRANDS = [
-  'audi','bmw','citroen','dacia','fiat','ford','haval','hyundai',
-  'isuzu','kia','land rover','mazda','mercedes','mitsubishi','nissan',
-  'opel','peugeot','porsche','renault','seat','skoda','suzuki',
-  'toyota','volkswagen','other',
-];
+  'audi','bmw','byd','chery','citroen','cupra','dacia','dfsk','dongfeng','ds',
+  'fiat','ford','geely','gwm','honda','hyundai','isuzu','jaguar','jeep',
+  'kia','land rover','lexus','mahindra','mazda','mercedes','mg','mini',
+  'mitsubishi','nissan','opel','peugeot','porsche','renault','seat','skoda',
+  'smart','ssangyong','suzuki','tesla','toyota','volkswagen','volvo','wallyscar','other',
+].sort();
+
 const FUELS  = ['gasoline','diesel','hybrid','electric'];
 const BODIES = ['sedan','hatchback','wagon','coupe','convertible','suv 4x4','suv 4x2','crossover','pickup 4x4','pickup 4x2','mpv','light commercial','heavy commercial'];
 const CONDITIONS = ['good','medium','bad'];

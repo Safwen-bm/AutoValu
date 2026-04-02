@@ -24,16 +24,22 @@
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  background: rgba(16,185,129,0.1);
-  border: 1px solid rgba(16,185,129,0.2);
+  background: rgba(16,185,129,0.12);
+  border: 1px solid rgba(16,185,129,0.25);
   color: #6EE7B7;
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 700;
-  padding: 5px 14px;
+  padding: 6px 16px;
   border-radius: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
+  animation: badgePulse 3s ease-in-out infinite;
+}
+
+@keyframes badgePulse {
+  0%, 100% { border-color: rgba(16,185,129,0.25); }
+  50%       { border-color: rgba(16,185,129,0.55); }
 }
 
 .landingTitle {
@@ -190,6 +196,8 @@
   border-radius: 14px;
   padding: 28px;
   text-align: center;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(16,185,129,0.12);
 }
 
 .statValue {
@@ -372,8 +380,9 @@
 }
 
 .featureCard:hover {
-  border-color: #A7F3D0;
-  box-shadow: 0 4px 16px rgba(16,185,129,0.08);
+  border-color: #10B981;
+  box-shadow: 0 4px 20px rgba(16,185,129,0.12);
+  transform: translateY(-1px);
 }
 
 .featureIcon { font-size: 1.6rem; margin-bottom: 12px; }
