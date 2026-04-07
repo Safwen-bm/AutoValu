@@ -3,6 +3,7 @@ renault,clio 2,2000.0,gasoline,unknown,manual,4cv,1200,hatchback,good,standard,5
 renault,clio 2,1999.0,gasoline,unknown,manual,4cv,1200,hatchback,good,standard,5 seats,4 doors,used,16000.0,2026-03,5.0,4.0,1200.0,,27.0,,4.0
 renault,clio 2,2006.0,gasoline,unknown,manual,4cv,1200,sedan,good,standard,5 seats,4 doors,used,22000.0,2026-03,5.0,4.0,1200.0,,20.0,,4.0
 renault,clio 3,2010.0,gasoline,unknown,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,22000.0,2026-03,5.0,4.0,1200.0,,16.0,,4.0
+renault,clio 3,2012.0,diesel,260000,manual,4cv,1500,hatchback,good,standard,5 seats,4 doors,used,22000.0,2026-03,5.0,4.0,1500.0,260000.0,14.0,18571.42,4.0
 renault,clio 1,1996.0,gasoline,unknown,manual,4cv,1200,hatchback,good,standard,5 seats,4 doors,used,11000.0,2026-03,5.0,4.0,1200.0,,30.0,,4.0
 renault,clio 2,2003.0,gasoline,unknown,manual,5cv,1200,sedan,good,standard,5 seats,4 doors,used,20000.0,2026-03,5.0,4.0,1200.0,,23.0,,4.0
 renault,clio 2,2000.0,gasoline,unknown,manual,4cv,1200,hatchback,good,standard,5 seats,4 doors,used,19000.0,2026-03,5.0,4.0,1200.0,,26.0,,4.0
@@ -345,6 +346,7 @@ volkswagen,golf 2,1992.0,gasoline,unknown,manual,6cv,1400,hatchback,good,standar
 volkswagen,golf vento,1994.0,diesel,unknown,manual,6cv,1400,sedan,good,standard,5 seats,4 doors,used,11000.0,2026-03,5.0,4.0,1400.0,,32.0,,4.0
 volkswagen,golf vento,1997.0,diesel,unknown,manual,6cv,1400,sedan,good,standard,5 seats,4 doors,used,8000.0,2026-03,5.0,4.0,1400.0,,29.0,,4.0
 volkswagen,golf 3,1995.0,diesel,280000,manual,6cv,1900,hatchback,good,standard,5 seats,4 doors,used,16500.0,2026-03,5.0,4.0,1900.0,280000.0,31.0,9032.258064516129,4.0
+volkswagen,golf 3,1995.0,diesel,unknown,manual,6cv,1900,hatchback,good,standard,5 seats,4 doors,used,13000.0,2026-03,5.0,4.0,1900.0,,31.0,,4.0
 volkswagen,golf 3,1993.0,gasoline,unknown,manual,5cv,1400,hatchback,good,standard,5 seats,4 doors,used,9000.0,2026-03,5.0,4.0,1400.0,,33.0,,4.0
 volkswagen,golf vendo,1996.0,diesel,unknown,manual,6cv,1900,sedan,good,standard,5 seats,4 doors,used,11000.0,2026-03,5.0,4.0,1900.0,,30.0,,4.0
 volkswagen,golf 3,1996.0,gasoline,unknown,manual,5cv,1400,hatchback,good,standard,5 seats,4 doors,used,14000.0,2026-03,5.0,4.0,1400.0,,30.0,,4.0
@@ -540,12 +542,14 @@ volkswagen,jetta,2010.0,diesel,196000,automatic,6cv,1600,sedan,good,standard,5 s
 volkswagen,jetta,2015.0,gasoline,100000,manual,6cv,1400,sedan,good,standard,5 seats,4 doors,used,43000.0,2026-03,5.0,4.0,1400.0,100000.0,11.0,9090.90909090909,3.0
 volkswagen,jetta,1994.0,gasoline,unknown,manual,5cv,1200,sedan,medium,standard,5 seats,4 doors,used,8000.0,2026-03,5.0,4.0,1200.0,,32.0,,4.0
 volkswagen,caddy,2010.0,diesel,unknown,manual,7cv,2000,mpv,medium,standard,5 seats,4 doors,used,30000.0,2026-03,5.0,4.0,2000.0,,16.0,,4.0
+volkswagen,caddy,2009.0,diesel,365000,manual,7cv,1900,light commercial,good,standard,2 seats,4 doors,used,22000.0,2026-03,2.0,4.0,1900.0,365000.0,17.0,21470.59,4.0
 volkswagen,caddy,2023.0,diesel,124000,manual,7cv,2000,light commercial,good,standard,5 seats,4 doors,used,60000.0,2026-03,5.0,4.0,2000.0,124000.0,3.0,41333.333333333336,1.0
 volkswagen,caddy,2023.0,diesel,79000,manual,7cv,2000,light commercial,good,standard,5 seats,4 doors,used,61000.0,2026-03,5.0,4.0,2000.0,79000.0,3.0,26333.33333333333,1.0
 volkswagen,caddy,2022.0,diesel,170000,manual,7cv,2000,light commercial,good,standard,5 seats,4 doors,used,57500.0,2026-03,5.0,4.0,2000.0,170000.0,4.0,42500.0,2.0
 volkswagen,caddy,2023.0,diesel,60000,manual,7cv,2000,light commercial,good,standard,5 seats,4 doors,used,60000.0,2026-03,5.0,4.0,2000.0,60000.0,3.0,20000.0,1.0
 volkswagen,caddy,2024.0,diesel,60000,manual,7cv,2000,light commercial,good,standard,5 seats,4 doors,used,65000.0,2026-03,5.0,4.0,2000.0,60000.0,2.0,30000.0,1.0
 volkswagen,caddy,2020.0,diesel,167000,manual,7cv,2000,light commercial,good,standard,5 seats,4 doors,used,50000.0,2026-03,5.0,4.0,2000.0,167000.0,6.0,27833.33333333333,2.0
+volkswagen,caddy,2020.0,diesel,300000,manual,5cv,1600,light commercial,good,standard,2 seats,4 doors,used,41000.0,2026-03,2.0,4.0,1600.0,300000.0,6.0,50000.0,2.0
 volkswagen,caddy,2021.0,diesel,160000,manual,7cv,2000,light commercial,good,standard,5 seats,4 doors,used,53000.0,2026-03,5.0,4.0,2000.0,160000.0,5.0,32000.0,2.0
 volkswagen,caddy,2016.0,diesel,300000,manual,5cv,1600,light commercial,medium,standard,5 seats,4 doors,used,35000.0,2026-03,5.0,4.0,1600.0,300000.0,10.0,30000.0,3.0
 volkswagen,caddy,2014.0,diesel,unknown,manual,8cv,2000,light commercial,medium,standard,5 seats,4 doors,used,25000.0,2026-03,5.0,4.0,2000.0,,12.0,,3.0
@@ -781,6 +785,7 @@ peugeot,309,1994.0,diesel,unknown,manual,6cv,1400,sedan,medium,standard,5 seats,
 peugeot,partner,2011.0,diesel,unknown,manual,7cv,1900,light commercial,medium,standard,2 seats,4 doors,used,16000.0,2026-03,2.0,4.0,1900.0,,15.0,,3.0
 peugeot,partner,2009.0,diesel,unknown,manual,7cv,1900,light commercial,medium,standard,2 seats,4 doors,used,17000.0,2026-03,2.0,4.0,1900.0,,17.0,,4.0
 peugeot,partner,2006.0,diesel,unknown,manual,7cv,1900,light commercial,medium,standard,2 seats,4 doors,used,15000.0,2026-03,2.0,4.0,1900.0,,20.0,,4.0
+peugeot,partner,2006.0,diesel,unknown,manual,7cv,1900,light commercial,medium,standard,2 seats,4 doors,used,14000.0,2026-03,2.0,4.0,1900.0,,20.0,,4.0
 peugeot,rifter,2021.0,diesel,165000,manual,5cv,1600,mpv,good,standard,5 seats,4 doors,used,66000.0,2026-03,5.0,4.0,1600.0,165000.0,5.0,33000.0,2.0
 peugeot,504,1993.0,diesel,unknown,manual,7cv,1600,wagon,medium,standard,5 seats,4 doors,used,5000.0,2026-03,5.0,4.0,1600.0,,33.0,,4.0
 peugeot,504,1990.0,gasoline,unknown,manual,7cv,1400,sedan,medium,standard,5 seats,4 doors,used,6000.0,2026-03,5.0,4.0,1400.0,,36.0,,4.0
@@ -943,6 +948,7 @@ toyota,yaris,2004.0,gasoline,350000,manual,4cv,1000,hatchback,good,standard,5 se
 toyota,hilux,2007.0,diesel,365000,manual,10cv,2800,suv 4x4,good,standard,5 seats,4 doors,used,56000.0,2026-03,5.0,4.0,2800.0,365000.0,19.0,19210.52631578948,4.0
 toyota,hilux,1991.0,diesel,unknown,manual,11cv,2800,pickup 4x4,medium,standard,5 seats,4 doors,used,19000.0,2026-03,5.0,4.0,2800.0,,35.0,,4.0
 toyota,hilux,2005.0,diesel,unknown,manual,10cv,2800,pickup 4x4,good,standard,5 seats,4 doors,used,42000.0,2026-03,5.0,4.0,2800.0,,21.0,,4.0
+toyota,hilux,2004.0,diesel,unknown,manual,10cv,2800,pickup 4x4,good,standard,5 seats,4 doors,used,45000.0,2026-03,5.0,4.0,2800.0,,22.0,,4.0
 toyota,hilux,2022.0,diesel,61000,automatic,10cv,2800,pickup 4x4,good,gr,5 seats,4 doors,used,250000.0,2026-03,5.0,4.0,2800.0,61000.0,4.0,15250.0,2.0
 toyota,hilux,2019.0,diesel,87000,manual,8cv,2400,pickup 4x4,good,standard,2 seats,2 doors,used,95000.0,2026-03,2.0,2.0,2400.0,87000.0,7.0,12428.57142857143,2.0
 toyota,yaris,2022.0,gasoline,161000,manual,4cv,1200,hatchback,good,standard,5 seats,4 doors,used,36000.0,2026-03,5.0,4.0,1200.0,161000.0,4.0,40250.0,2.0
@@ -1330,6 +1336,7 @@ mercedes,gl,2008.0,gasoline,139000,automatic,26cv,4500,suv 4x4,good,standard,5 s
 mercedes,190,1983.0,gasoline,unknown,manual,9cv,2000,sedan,bad,standard,5 seats,4 doors,used,7000.0,2026-03,5.0,4.0,2000.0,,43.0,,4.0
 mercedes,glc,2017.0,gasoline,58000,automatic,12cv,2000,suv 4x4,good,standard,5 seats,4 doors,used,120000.0,2026-03,5.0,4.0,2000.0,58000.0,9.0,6444.444444444444,3.0
 mercedes,250,1991.0,diesel,unknown,manual,8cv,2000,sedan,medium,standard,5 seats,4 doors,used,15000.0,2026-03,5.0,4.0,2000.0,,35.0,,4.0
+mercedes,250,1989.0,gasoline,unknown,manual,8cv,2500,sedan,medium,standard,5 seats,4 doors,used,12000.0,2026-03,5.0,4.0,2500.0,,37.0,,4.0
 mercedes,190,1988.0,gasoline,unknown,manual,7cv,1600,sedan,medium,standard,5 seats,4 doors,used,13000.0,2026-03,5.0,4.0,1600.0,,38.0,,4.0
 mercedes,classe e,2007.0,diesel,155000,manual,10cv,2000,sedan,good,standard,5 seats,4 doors,used,40000.0,2026-03,5.0,4.0,2000.0,155000.0,19.0,8157.894736842105,4.0
 mercedes,vito,2019.0,diesel,145000,manual,6cv,1600,heavy commercial,good,standard,3 seats,4 doors,used,63000.0,2026-03,3.0,4.0,1600.0,145000.0,7.0,20714.28571428572,2.0
@@ -1495,6 +1502,7 @@ audi,q7,2008.0,diesel,320000,automatic,16cv,4000,suv 4x4,medium,s line,5 seats,4
 audi,q3,2017.0,gasoline,144000,automatic,8cv,1400,suv 4x4,good,standard,5 seats,4 doors,used,80000.0,2026-03,5.0,4.0,1400.0,144000.0,9.0,16000.0,3.0
 audi,a3,2018.0,diesel,200000,manual,6cv,1600,hatchback,good,s line,5 seats,4 doors,used,68000.0,2026-03,5.0,4.0,1600.0,200000.0,8.0,25000.0,2.0
 audi,a7,2019.0,gasoline,64000,automatic,23cv,3000,sedan,good,s line quattro,5 seats,4 doors,used,269000.0,2026-03,5.0,4.0,3000.0,64000.0,7.0,9142.857142857143,2.0
+audi,a7,2015.0,diesel,210000,automatic,23cv,3000,sedan,good,s line,5 seats,4 doors,used,115000.0,2026-03,5.0,4.0,3000.0,210000.0,11.0,19091.0,3.0
 audi,q7,2009.0,diesel,162000,automatic,16cv,3000,suv 4x4,good,standard,5 seats,4 doors,used,65000.0,2026-03,5.0,4.0,3000.0,162000.0,17.0,9529.411764705885,4.0
 audi,q7,2008.0,diesel,210000,automatic,16cv,3000,suv 4x4,good,standard,5 seats,4 doors,used,55000.0,2026-03,5.0,4.0,3000.0,210000.0,18.0,11666.666666666666,4.0
 skoda,octavia,2020.0,gasoline,103000,automatic,7cv,1400,sedan,good,standard,5 seats,4 doors,used,60000.0,2026-03,5.0,4.0,1400.0,103000.0,6.0,17166.666666666668,2.0
@@ -1916,6 +1924,7 @@ mitsubishi,l300,2014.0,diesel,unknown,manual,10cv,2500,mpv,good,standard,9 seats
 mitsubishi,lancer,2011.0,gasoline,180000,manual,6cv,1800,sedan,good,standard,5 seats,4 doors,used,17000.0,2026-03,5.0,4.0,1800.0,180000.0,15.0,12000.0,3.0
 mitsubishi,outlander,2015.0,gasoline,51000,automatic,11cv,2000,suv 4x4,good,standard,5 seats,4 doors,used,72000.0,2026-03,5.0,4.0,2000.0,51000.0,11.0,4636.363636363636,3.0
 mitsubishi,pajero,1991.0,diesel,200000,manual,10cv,2800,suv 4x4,medium,standard,5 seats,2 doors,used,24000.0,2026-03,5.0,2.0,2800.0,200000.0,35.0,5714.285714285715,4.0
+mitsubishi,pajero,1993.0,diesel,334000,manual,10cv,2500,suv 4x4,medium,standard,5 seats,4 doors,used,28000.0,2026-03,5.0,4.0,2500.0,334000.0,33.0,10121.21,4.0
 mitsubishi,attrage,2021.0,gasoline,70000,manual,4cv,1200,sedan,good,standard,5 seats,4 doors,used,32000.0,2026-03,5.0,4.0,1200.0,70000.0,5.0,14000.0,2.0
 mitsubishi,outlander,2020.0,hybrid,77000,automatic,7cv,2400,suv 4x4,good,standard,5 seats,4 doors,used,90000.0,2026-03,5.0,4.0,2400.0,77000.0,6.0,12833.333333333334,2.0
 mitsubishi,l300,2012.0,diesel,unknown,manual,10cv,2500,mpv,good,standard,9 seats,4 doors,used,15000.0,2026-03,9.0,4.0,2500.0,,14.0,,3.0
@@ -1923,6 +1932,7 @@ mitsubishi,l200,2002.0,diesel,302000,manual,10cv,2500,pickup 4x4,good,standard,5
 mitsubishi,l200,2023.0,diesel,26000,manual,10cv,2100,pickup 4x4,good,standard,5 seats,4 doors,used,100000.0,2026-03,5.0,4.0,2100.0,26000.0,3.0,8666.666666666666,1.0
 mitsubishi,lancer,2010.0,gasoline,225000,automatic,9cv,1500,sedan,good,standard,5 seats,4 doors,used,23000.0,2026-03,5.0,4.0,1500.0,225000.0,16.0,14062.5,4.0
 mitsubishi,l200,2013.0,diesel,229500,manual,10cv,2500,pickup 4x4,good,standard,5 seats,4 doors,used,50000.0,2026-03,5.0,4.0,2500.0,229500.0,13.0,17653.846153846152,3.0
+mitsubishi,l200,2014.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,27000.0,2026-03,2.0,2.0,2500.0,,12.0,,3.0
 mitsubishi,asx,2016.0,gasoline,126000,automatic,8cv,1600,suv 4x4,good,standard,5 seats,4 doors,used,54000.0,2026-03,5.0,4.0,1600.0,126000.0,10.0,12600.0,3.0
 mitsubishi,l200,2015.0,diesel,273000,manual,10cv,2500,pickup 4x2,good,standard,2 seats,4 doors,used,31000.0,2026-03,2.0,4.0,2500.0,273000.0,11.0,24818.18181818182,3.0
 mitsubishi,l200,1993.0,diesel,unknown,manual,10cv,2500,pickup 4x4,good,standard,5 seats,4 doors,used,23000.0,2026-03,5.0,4.0,2500.0,,33.0,,4.0
@@ -2088,6 +2098,7 @@ isuzu,dmax,2021.0,diesel,124000,automatic,8cv,1900,pickup 4x4,good,imported,5 se
 isuzu,dmax,2021.0,diesel,100000,manual,8cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,60000.0,2026-03,2.0,2.0,2500.0,100000.0,5.0,20000.0,2.0
 isuzu,dmax,2020.0,diesel,324000,manual,8cv,2500,pickup 4x2,good,standard,5 seats,4 doors,used,42000.0,2026-03,5.0,4.0,2500.0,324000.0,6.0,54000.0,2.0
 isuzu,tfr pick up,1999.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,33000.0,2026-03,2.0,2.0,2500.0,,27.0,,4.0
+isuzu,tfr pick up,1992.0,diesel,unknown,manual,10cv,2500,pickup 4x2,medium,standard,2 seats,2 doors,used,17000.0,2026-03,2.0,2.0,2500.0,,34.0,,4.0
 isuzu,tfr pick up,1991.0,diesel,unknown,manual,10cv,2500,pickup 4x2,medium,standard,5 seats,4 doors,used,18000.0,2026-03,5.0,4.0,2500.0,,34.0,,4.0
 isuzu,dmax,2024.0,diesel,13800,manual,8cv,1900,pickup 4x4,good,imported,2 seats,2 doors,used,115000.0,2026-03,2.0,2.0,1900.0,13800.0,2.0,6900.0,1.0
 isuzu,tfr pick up,2001.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,2seats,2 doors,used,37000.0,2026-03,2.0,2.0,2500.0,,25.0,,4.0
@@ -2096,6 +2107,7 @@ isuzu,tfr pick up,2004.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standar
 isuzu,tfr pick up,1992.0,diesel,unknown,manual,9cv,2300,pickup 4x2,bad,standard,5 seats,4 doors,used,18000.0,2026-03,5.0,4.0,2300.0,,34.0,,4.0
 isuzu,dmax,2022.0,diesel,123000,manual,10cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,58000.0,2026-03,2.0,2.0,2500.0,123000.0,4.0,30750.0,2.0
 isuzu,dmax,2004.0,diesel,unknown,manual,12cv,3000,pickup 4x2,good,imported,2 seats,2 doors,used,40000.0,2026-03,2.0,2.0,3000.0,,22.0,,4.0
+isuzu,dmax,2004.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,imported,5 seats,4 doors,used,43000.0,2026-03,5.0,4.0,2500.0,,22.0,,4.0
 isuzu,kb26,1980.0,diesel,unknown,manual,8cv,unknown,pickup 4x2,medium,standard,2 seats,2 doors,used,5000.0,2026-03,2.0,2.0,,,46.0,,4.0
 isuzu,dmax,2023.0,diesel,114000,manual,8cv,2500,pickup 4x2,good,standard,5 seats,4 doors,used,66000.0,2026-03,5.0,4.0,2500.0,114000.0,3.0,38000.0,1.0
 isuzu,tfr pick up,1998.0,diesel,unknown,manual,10cv,2500,pickup 4x2,good,standard,2 seats,2 doors,used,28000.0,2026-03,2.0,2.0,2500.0,,28.0,,4.0
@@ -2490,6 +2502,7 @@ mazda,6,2014.0,gasoline,141000,automatic,9cv,1999,sedan,good,standard,5 seats,5 
 mercedes,classe c,2018.0,gasoline,143000,automatic,9cv,1598,sedan,good,standard,5 seats,4 doors,used,119000.0,2026-03,5.0,4.0,1598.0,143000.0,8.0,17875.0,2.0
 mahindra,scorpio,2013.0,diesel,353000,manual,8cv,2490,suv 4x2,good,standard,7 seats,4 doors,used,29500.0,2026-03,7.0,4.0,2490.0,353000.0,13.0,27153.846153846152,3.0
 mahindra,pick up,2013.0,diesel,unknown,manual,8cv,2490,pickup 4x2,good,standard,2 seats,2 doors,used,22000.0,2026-03,2.0,2.0,2490.0,,13.0,,3.0
+mahindra,pick up,2014.0,diesel,unknown,manual,8cv,2490,pickup 4x4,good,standard,5 seats,4 doors,used,20000.0,2026-03,5.0,4.0,2490.0,,12.0,,3.0
 bmw,serie 5,2019.0,gasoline,47000,automatic,10cv,1597,sedan,good,standard,5 seats,4 doors,used,180000.0,2026-03,5.0,4.0,1597.0,47000.0,7.0,6714.285714285715,2.0
 seat,leon,2013.0,gasoline,118000,manual,5cv,1197,hatchback,good,standard,5 seats,5 doors,used,40000.0,2026-03,5.0,5.0,1197.0,118000.0,13.0,9076.923076923076,3.0
 mercedes,classe a,2022.0,gasoline,45000,automatic,8cv,1322,hatchback,good,standard,5 seats,4 doors,used,107000.0,2026-03,5.0,4.0,1322.0,45000.0,4.0,11250.0,2.0
