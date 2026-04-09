@@ -2129,20 +2129,20 @@ opel,omega,2002.0,diesel,unknown,manual,9cv,2500,wagon,good,standard,5 seats,4 d
 opel,insignia,2012.0,diesel,unknown,manual,9cv,1800,wagon,good,standard,5 seats,4 doors,used,26000.0,2026-03,5.0,4.0,1800.0,,14.0,,3.0
 opel,combo cargo,2023.0,diesel,85000,manual,5cv,1600,light commercial,good,standard,2 seats,4 doors,used,52000.0,2026-03,2.0,4.0,1600.0,85000.0,3.0,28333.33333333333,1.0
 opel,corsa,2016.0,gasoline,unknown,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,29000.0,2026-03,5.0,4.0,1200.0,,10.0,,3.0
-opel,astra g,2002.0,gasoline,304000,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,22000.0,2026-03,5.0,4.0,1200.0,304000.0,24.0,12666.666666666666,4.0
+opel,astra,2002.0,gasoline,304000,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,22000.0,2026-03,5.0,4.0,1200.0,304000.0,24.0,12666.666666666666,4.0
 opel,corsa,1993.0,gasoline,390000,manual,4cv,1200,hatchback,medium,standard,5 seats,4 doors,used,8000.0,2026-03,5.0,4.0,1200.0,390000.0,33.0,11818.181818181818,4.0
 opel,grandland,2019.0,diesel,137000,automatic,8cv,2000,suv 4x2,good,standard,5 seats,4 doors,used,100000.0,2026-03,5.0,4.0,2000.0,137000.0,7.0,19571.42857142857,2.0
 opel,vectra,1995.0,gasoline,unknown,manual,4cv,1300,sedan,good,standard,5 seats,4 doors,used,11000.0,2026-03,5.0,4.0,1300.0,,31.0,,4.0
 opel,kadett,1983.0,gasoline,unknown,manual,5cv,1200,wagon,bad,standard,5 seats,4 doors,used,3000.0,2026-03,5.0,4.0,1200.0,,43.0,,4.0
 opel,kadett,1992.0,diesel,unknown,manual,5cv,1200,wagon,medium,standard,5 seats,4 doors,used,5000.0,2026-03,5.0,4.0,1200.0,,34.0,,4.0
-opel,astra g,2001.0,gasoline,270000,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,19000.0,2026-03,5.0,4.0,1200.0,270000.0,25.0,10800.0,4.0
+opel,astra,2001.0,gasoline,270000,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,19000.0,2026-03,5.0,4.0,1200.0,270000.0,25.0,10800.0,4.0
 opel,combo cargo,2022.0,diesel,100000,manual,5cv,1600,light commercial,good,standard,2 seats,4 doors,used,51000.0,2026-03,2.0,4.0,1600.0,100000.0,4.0,25000.0,2.0
 opel,omega,1997.0,diesel,unknown,manual,7cv,2500,sedan,bad,standard,5 seats,4 doors,used,7000.0,2026-03,5.0,4.0,2500.0,,29.0,,4.0
 opel,astra,2006.0,gasoline,246000,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,23000.0,2026-03,5.0,4.0,1200.0,246000.0,20.0,12300.0,4.0
 opel,astra,2022.0,gasoline,70000,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,47000.0,2026-03,5.0,4.0,1200.0,70000.0,4.0,17500.0,2.0
 opel,corsa,2000.0,gasoline,unknown,manual,4cv,1000,hatchback,good,standard,5 seats,4 doors,used,11000.0,2026-03,5.0,4.0,1000.0,,26.0,,4.0
-opel,astra g,2000.0,gasoline,unknown,manual,5cv,1400,hatchback,good,standard,5 seats,4 doors,used,13000.0,2026-03,5.0,4.0,1400.0,,26.0,,4.0
-opel,astra g,2003.0,gasoline,266000,manual,5cv,1400,hatchback,good,standard,5 seats,4 doors,used,15000.0,2026-03,5.0,4.0,1400.0,266000.0,23.0,11565.217391304348,4.0
+opel,astra,2000.0,gasoline,unknown,manual,5cv,1400,hatchback,good,standard,5 seats,4 doors,used,13000.0,2026-03,5.0,4.0,1400.0,,26.0,,4.0
+opel,astra,2003.0,gasoline,266000,manual,5cv,1400,hatchback,good,standard,5 seats,4 doors,used,15000.0,2026-03,5.0,4.0,1400.0,266000.0,23.0,11565.217391304348,4.0
 opel,agila,2000.0,gasoline,219000,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,15500.0,2026-03,5.0,4.0,1200.0,219000.0,26.0,8423.076923076924,4.0
 opel,grandland,2020.0,diesel,113000,automatic,7cv,1500,suv 4x4,good,standard,5 seats,4 doors,used,79000.0,2026-03,5.0,4.0,1500.0,113000.0,6.0,18833.33333333333,2.0
 opel,corsa,1999.0,gasoline,unknown,manual,4cv,1000,hatchback,good,standard,5 seats,4 doors,used,10000.0,2026-03,5.0,4.0,1000.0,,27.0,,4.0
@@ -2165,10 +2165,10 @@ opel,corsa,1988.0,gasoline,unknown,manual,4cv,1000,hatchback,good,standard,5 sea
 opel,corsa,1992.0,gasoline,unknown,manual,5cv,1200,sedan,good,standard,5 seats,4 doors,used,5500.0,2026-03,5.0,4.0,1200.0,,34.0,,4.0
 opel,astra,1995.0,diesel,unknown,manual,6cv,1400,hatchback,good,standard,5 seats,4 doors,used,8000.0,2026-03,5.0,4.0,1400.0,,31.0,,4.0
 opel,frontera,2006.0,diesel,unknown,manual,10cv,2500,suv 4x4,good,standard,5 seats,4 doors,used,30000.0,2026-03,5.0,4.0,2500.0,,20.0,,4.0
-opel,astra g,2002.0,diesel,unknown,manual,7cv,1700,light commercial,good,standard,2 seats,4 doors,used,15000.0,2026-03,2.0,4.0,1700.0,,24.0,,4.0
+opel,astra,2002.0,diesel,unknown,manual,7cv,1700,light commercial,good,standard,2 seats,4 doors,used,15000.0,2026-03,2.0,4.0,1700.0,,24.0,,4.0
 opel,kadett,1991.0,gasoline,unknown,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,7000.0,2026-03,5.0,4.0,1200.0,,35.0,,4.0
 opel,astra,1998.0,gasoline,unknown,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,6500.0,2026-03,5.0,4.0,1200.0,,28.0,,4.0
-opel,astra g,2000.0,gasoline,unknown,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,15000.0,2026-03,5.0,4.0,1200.0,,26.0,,4.0
+opel,astra,2000.0,gasoline,unknown,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,15000.0,2026-03,5.0,4.0,1200.0,,26.0,,4.0
 opel,combo cargo,1995.0,diesel,unknown,manual,7cv,1400,light commercial,good,standard,2 seats,3 doors,used,7000.0,2026-03,2.0,4.0,1400.0,,31.0,,4.0
 opel,vectra,2000.0,diesel,unknown,manual,7cv,1700,sedan,good,standard,5 seats,4 doors,used,11000.0,2026-03,5.0,4.0,1700.0,,26.0,,4.0
 opel,combo cargo,2020.0,diesel,unknown,manual,5cv,1600,light commercial,good,standard,2 seats,4 doors,used,40000.0,2026-03,2.0,4.0,1600.0,,6.0,,2.0
@@ -2180,7 +2180,7 @@ opel,astra,2002.0,diesel,unknown,manual,7cv,1700,coupe,good,standard,5 seats,4 d
 opel,meriva,2010.0,gasoline,123000,manual,5cv,1200,mpv,good,standard,5 seats,4 doors,used,26000.0,2026-03,5.0,4.0,1200.0,123000.0,16.0,7687.5,4.0
 peugeot,partner,2009.0,diesel,unknown,manual,5cv,1600,mpv,good,standard,7 seats,4 doors,used,35000.0,2026-03,7.0,4.0,1600.0,,17.0,,4.0
 opel,vectra,2005.0,diesel,unknown,manual,6cv,1700,sedan,good,standard,5 seats,4 doors,used,15500.0,2026-03,5.0,4.0,1700.0,,21.0,,4.0
-opel,astra g,2004.0,gasoline,173000,automatic,7cv,1600,sedan,good,standard,5 seats,4 doors,used,20000.0,2026-03,5.0,4.0,1600.0,173000.0,22.0,7863.636363636364,4.0
+opel,astra,2004.0,gasoline,173000,automatic,7cv,1600,sedan,good,standard,5 seats,4 doors,used,20000.0,2026-03,5.0,4.0,1600.0,173000.0,22.0,7863.636363636364,4.0
 opel,zafira,2002.0,diesel,unknown,manual,8cv,2200,mpv,good,standard,7 seats,4 doors,used,27000.0,2026-03,7.0,4.0,2200.0,,24.0,,4.0
 opel,astra,2021.0,gasoline,87000,manual,6cv,1200,hatchback,good,standard,5 seats,4 doors,used,45000.0,2026-03,5.0,4.0,1200.0,87000.0,5.0,17400.0,2.0
 opel,corsa,2006.0,gasoline,unknown,manual,4cv,1000,hatchback,good,standard,5 seats,4 doors,used,18000.0,2026-03,5.0,4.0,1000.0,,20.0,,4.0
