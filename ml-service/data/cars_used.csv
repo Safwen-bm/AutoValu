@@ -1,7 +1,8 @@
 ﻿brand,model,year,fuel,mileage_km,transmission,fiscal_power,engine_cc,body_style,car_condition,trim_level,seats,doors,condition,price,recorded_at,seats_num,doors_num,engine_cc_num,mileage_num,car_age,mileage_per_year,depreciation_zone
 renault,clio 2,2000.0,gasoline,unknown,manual,4cv,1200,hatchback,good,standard,5 seats,4 doors,used,18000.0,2026-03,5.0,4.0,1200.0,,26.0,,4.0
 renault,clio 2,1999.0,gasoline,unknown,manual,4cv,1200,hatchback,good,standard,5 seats,4 doors,used,16000.0,2026-03,5.0,4.0,1200.0,,27.0,,4.0
-renault,clio 2,2006.0,gasoline,unknown,manual,4cv,1200,sedan,good,standard,5 seats,4 doors,used,22000.0,2026-03,5.0,4.0,1200.0,,20.0,,4.0
+renault,clio 2,2006.0,gasoline,unknown,manual,4cv,1200,sedan,good,standard,5 seats,4 doors,used,21000.0,2026-03,5.0,4.0,1200.0,,20.0,,4.0
+renault,clio 2,2008.0,gasoline,332000,manual,4cv,1200,sedan,good,standard,5 seats,4 doors,used,22000.0,2026-03,5.0,4.0,1200.0,332000.0,18.0,18444.45,4.0
 renault,clio 3,2010.0,gasoline,unknown,manual,5cv,1200,hatchback,good,standard,5 seats,4 doors,used,22000.0,2026-03,5.0,4.0,1200.0,,16.0,,4.0
 renault,clio 3,2012.0,diesel,260000,manual,4cv,1500,hatchback,good,standard,5 seats,4 doors,used,22000.0,2026-03,5.0,4.0,1500.0,260000.0,14.0,18571.42,4.0
 renault,clio 1,1996.0,gasoline,unknown,manual,4cv,1200,hatchback,good,standard,5 seats,4 doors,used,11000.0,2026-03,5.0,4.0,1200.0,,30.0,,4.0
@@ -1125,6 +1126,7 @@ bmw,x3,2018.0,diesel,87000,automatic,10cv,2000,suv 4x4,good,standard,5 seats,4 d
 bmw,serie 1,2006.0,gasoline,227000,manual,7cv,1600,hatchback,bad,standard,5 seats,4 doors,used,24000.0,2026-03,5.0,4.0,1600.0,227000.0,20.0,11350.0,4.0
 bmw,x6,2017.0,diesel,unknown,automatic,21cv,3500,suv 4x4,good,standard,5 seats,4 doors,used,180000.0,2026-03,5.0,4.0,3500.0,,9.0,,3.0
 bmw,serie 5,2005.0,diesel,250000,automatic,11cv,3000,sedan,good,standard,5 seats,4 doors,used,60000.0,2026-03,5.0,4.0,3000.0,250000.0,21.0,11904.761904761905,4.0
+bmw,serie 5,2005.0,diesel,185650,automatic,10cv,2500,sedan,good,standard,5 seats,4 doors,used,38000.0,2026-03,5.0,4.0,2500.0,185650.0,21.0,8840.48,4.0
 bmw,serie 4,2015.0,gasoline,260000,automatic,10cv,2000,sedan,good,standard,5 seats,4 doors,used,62000.0,2026-03,5.0,4.0,2000.0,260000.0,11.0,23636.36363636364,3.0
 bmw,serie 4,2017.0,gasoline,150000,automatic,7cv,1700,sedan,good,standard,5 seats,4 doors,used,80000.0,2026-03,5.0,4.0,1700.0,150000.0,9.0,16666.666666666668,3.0
 bmw,serie 5,2017.0,gasoline,80000,automatic,10cv,2000,sedan,good,standard,5 seats,4 doors,used,132000.0,2026-03,5.0,4.0,2000.0,80000.0,9.0,8888.888888888889,3.0
