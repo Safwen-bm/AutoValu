@@ -580,7 +580,7 @@ export default function AdminPage() {
         {tab === "queries" && (
           <div>
             <div style={{ marginBottom: 14, color: "#6B7280", fontSize: 13 }}>
-              Last 100 user queries — every check including ones without a user
+              Last 100 user queries every check including ones without a user
               price
             </div>
             <div style={{ ...s.card, padding: 0, overflow: "hidden" }}>

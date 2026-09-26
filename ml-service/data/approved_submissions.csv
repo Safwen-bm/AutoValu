@@ -1,8 +1,0 @@
-    id    |           timestamp           |   brand    | model  | year |   fuel   |    body_style    | car_condition | trim_level | mileage_km | engine_cc | user_price | predicted_price | segment |  status  | admin_note 
-----------+-------------------------------+------------+--------+------+----------+------------------+---------------+------------+------------+-----------+------------+-----------------+---------+----------+------------
- d7a605f9 | 2026-03-30 16:43:10.442388+00 | audi       | a4     | 2012 | gasoline | sedan            | good          | standard   |     230000 |      1600 |      42000 |           42000 | budget  | approved | 
- 67d5bdcd | 2026-03-30 02:24:04.919117+00 | seat       | ibiza  | 2019 | gasoline | hatchback        | good          | standard   |     200000 |      1000 |      40000 |           40000 | budget  | approved | 
- 7e2be45b | 2026-03-30 02:20:03.203363+00 | volkswagen | golf 4 | 2000 | gasoline | hatchback        | good          | standard   |     256000 |      1400 |      24000 |           20000 | budget  | approved | 
- da61c710 | 2026-03-30 02:26:02.94036+00  | citroen    | Jumpy  | 2014 | diesel   | heavy commercial | bad           | standard   |     256000 |      2000 |      34500 |           34500 | budget  | approved | 
-(4 rows)
-
