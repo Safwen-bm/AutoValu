@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
+import Logomark from '../../components/Logomark';
 
 const ML_API = process.env.NEXT_PUBLIC_ML_URL ?? 'http://localhost:8000';
 
@@ -31,73 +32,49 @@ export default function AdminLogin() {
   };
 
   return (
-    <div style={{
-      minHeight:'100vh', background:'#0A0F1E',
-      display:'flex', alignItems:'center', justifyContent:'center', padding:24
-    }}>
-      <div style={{
-        background:'#111827', border:'1px solid #1E293B',
-        borderRadius:16, padding:'40px 36px', width:'100%', maxWidth:380
-      }}>
-        <div style={{textAlign:'center', marginBottom:32}}>
-          <div style={{
-            width:48, height:48, background:'linear-gradient(135deg,#10B981,#059669)',
-            borderRadius:12, display:'flex', alignItems:'center', justifyContent:'center',
-            fontSize:24, margin:'0 auto 14px'
-          }}>🚗</div>
-          <div style={{color:'white', fontWeight:900, fontSize:'1.2rem', letterSpacing:'-0.5px'}}>
-            <span style={{color:'#10B981'}}>Auto</span>Valu Admin
+    <div className="flex min-h-screen items-center justify-center bg-paper px-6">
+      <div className="w-full max-w-sm rounded-md border border-border bg-surface p-9">
+        <div className="mb-8 text-center">
+          <div className="mx-auto mb-3 flex h-12 w-12 items-center justify-center rounded-md bg-steel">
+            <Logomark className="h-6 w-6 text-amber" />
           </div>
-          <div style={{color:'#475569', fontSize:'0.82rem', marginTop:4}}>
-            Sign in to access the dashboard
+          <div className="font-display text-xl font-bold uppercase tracking-tight text-ink-950">
+            Auto<span className="text-amber">Valu</span> Admin
           </div>
+          <div className="mt-1 text-sm text-ink-500">Sign in to access the dashboard</div>
         </div>
 
-        <form onSubmit={submit} style={{display:'flex',flexDirection:'column',gap:14}}>
-          <div style={{display:'flex',flexDirection:'column',gap:5}}>
-            <label style={{fontSize:'0.72rem',fontWeight:700,color:'#64748B',textTransform:'uppercase',letterSpacing:'0.07em'}}>
-              Username
-            </label>
+        <form onSubmit={submit} className="flex flex-col gap-4">
+          <div className="flex flex-col gap-1.5">
+            <label className="text-xs font-medium uppercase tracking-wide text-ink-500">Username</label>
             <input
               type="text" value={form.username} required
-              onChange={e=>setForm(p=>({...p,username:e.target.value}))}
+              onChange={e => setForm(p => ({ ...p, username: e.target.value }))}
               placeholder="Enter username"
-              style={{
-                background:'#1E293B', border:'1.5px solid #334155', borderRadius:8,
-                color:'#E2E8F0', padding:'10px 12px', fontSize:'0.92rem',
-                outline:'none', width:'100%'
-              }}
+              className="w-full rounded border border-border bg-paper px-3 py-2.5 text-sm text-ink-950 placeholder:text-ink-400 focus:border-amber focus:outline-none focus:ring-1 focus:ring-amber"
             />
           </div>
-          <div style={{display:'flex',flexDirection:'column',gap:5}}>
-            <label style={{fontSize:'0.72rem',fontWeight:700,color:'#64748B',textTransform:'uppercase',letterSpacing:'0.07em'}}>
-              Password
-            </label>
+          <div className="flex flex-col gap-1.5">
+            <label className="text-xs font-medium uppercase tracking-wide text-ink-500">Password</label>
             <input
               type="password" value={form.password} required
-              onChange={e=>setForm(p=>({...p,password:e.target.value}))}
+              onChange={e => setForm(p => ({ ...p, password: e.target.value }))}
               placeholder="Enter password"
-              style={{
-                background:'#1E293B', border:'1.5px solid #334155', borderRadius:8,
-                color:'#E2E8F0', padding:'10px 12px', fontSize:'0.92rem',
-                outline:'none', width:'100%'
-              }}
+              className="w-full rounded border border-border bg-paper px-3 py-2.5 text-sm text-ink-950 placeholder:text-ink-400 focus:border-amber focus:outline-none focus:ring-1 focus:ring-amber"
             />
           </div>
 
           {error && (
-            <div style={{
-              background:'rgba(220,38,38,0.1)', border:'1px solid rgba(220,38,38,0.3)',
-              borderRadius:8, padding:'9px 12px', color:'#F87171', fontSize:'0.83rem'
-            }}>{error}</div>
+            <div className="rounded border border-verdict-bad/30 bg-verdict-bad/10 px-3 py-2 text-sm text-verdict-bad">
+              {error}
+            </div>
           )}
 
-          <button type="submit" disabled={loading} style={{
-            padding:'12px', background: loading ? '#065F46' : '#10B981',
-            color:'white', border:'none', borderRadius:8,
-            fontWeight:700, fontSize:'0.93rem', cursor: loading ? 'not-allowed' : 'pointer',
-            marginTop:4, transition:'background 0.15s'
-          }}>
+          <button
+            type="submit"
+            disabled={loading}
+            className="mt-1 rounded bg-amber py-3 text-sm font-medium text-steel transition-colors hover:bg-amber-hover hover:text-paper disabled:opacity-60"
+          >
             {loading ? 'Signing in...' : 'Sign in'}
           </button>
         </form>
