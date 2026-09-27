@@ -1,3 +1,4 @@
+import secrets
 from fastapi import APIRouter, HTTPException
 
 from app.config import ADMIN_SECRET, ADMIN_USER, ADMIN_PASS
@@ -7,17 +8,23 @@ from app.models.schemas import LoginInput
 router = APIRouter(prefix="/admin")
 
 
+def check_secret(secret: str):
+    if not secrets.compare_digest(secret, ADMIN_SECRET):
+        raise HTTPException(403, "Forbidden")
+
+
 @router.post("/login")
 def admin_login(data: LoginInput):
-    if data.username == ADMIN_USER and data.password == ADMIN_PASS:
+    user_ok = secrets.compare_digest(data.username, ADMIN_USER or "")
+    pass_ok = secrets.compare_digest(data.password, ADMIN_PASS or "")
+    if user_ok and pass_ok:
         return {"success": True, "token": ADMIN_SECRET}
     raise HTTPException(401, "Invalid credentials")
 
 
 @router.get("/submissions")
 def get_submissions(secret: str = "", status: str = "all"):
-    if secret != ADMIN_SECRET:
-        raise HTTPException(403, "Forbidden")
+    check_secret(secret)
     conn = get_db()
     cur = conn.cursor()
     if status == "all":
@@ -32,8 +39,7 @@ def get_submissions(secret: str = "", status: str = "all"):
 
 @router.post("/review")
 def review_submission(submission_id: str, action: str, secret: str = "", note: str = ""):
-    if secret != ADMIN_SECRET:
-        raise HTTPException(403, "Forbidden")
+    check_secret(secret)
     if action not in ['approve', 'reject']:
         raise HTTPException(400, "approve or reject only")
     status = 'approved' if action == 'approve' else 'rejected'
@@ -50,8 +56,7 @@ def review_submission(submission_id: str, action: str, secret: str = "", note: s
 
 @router.get("/stats")
 def get_stats(secret: str = ""):
-    if secret != ADMIN_SECRET:
-        raise HTTPException(403, "Forbidden")
+    check_secret(secret)
     conn = get_db()
     cur = conn.cursor()
     cur.execute("SELECT COUNT(*) as c FROM queries")
@@ -77,8 +82,7 @@ def get_stats(secret: str = ""):
 
 @router.get("/queries")
 def get_queries(secret: str = "", limit: int = 100):
-    if secret != ADMIN_SECRET:
-        raise HTTPException(403, "Forbidden")
+    check_secret(secret)
     conn = get_db()
     cur = conn.cursor()
     cur.execute("SELECT * FROM queries ORDER BY timestamp DESC LIMIT %s", (limit,))
